@@ -1,4 +1,4 @@
-"""AMV Scanner for Plex via animemusicvideos.org
+"""AMV Metadata Agent for Plex via animemusicvideos.org
 """
 
 import re
